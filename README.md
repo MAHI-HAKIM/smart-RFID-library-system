@@ -162,21 +162,6 @@ Possible applications:
 
 ---
 
-## 👥 Authors
-
-- Enes Smajli  
-- Mahi Abdulhakim  
-
----
-
-## 📚 References
-
-- “Internet of Things: Theory and Applications” — Cüneyt Bayılmış, Kerem Küçük  
-- IoT-Based Library Automation Systems (Research Papers)  
-- Smart Library Management System Studies  
-
----
-
 ## 🌟 Vision
 
 This project aims to transform traditional libraries into **smart, efficient, and data-driven environments** using IoT and modern web technologies.
