@@ -1,3 +1,0 @@
-# e-LIbrary
-
-IoT project
