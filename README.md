@@ -90,6 +90,18 @@ We developed a **smart IoT-based system** that includes:
 
 ## 🖼️ Screenshots & System Diagrams
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MAHI-HAKIM/smart-RFID-library-system/main/screenshots/homepage.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/MAHI-HAKIM/smart-RFID-library-system/main/screenshots/reservation_page.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/MAHI-HAKIM/smart-RFID-library-system/main/screenshots/Firebase.png" width="30%" />
+</p>
+
+### 🔌 Hardware & Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MAHI-HAKIM/smart-RFID-library-system/main/screenshots/RFID-MODEL.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/MAHI-HAKIM/smart-RFID-library-system/main/screenshots/connection_method.png" width="45%" />
+</p>
 
 ---
 
