@@ -90,21 +90,6 @@ We developed a **smart IoT-based system** that includes:
 
 ## 🖼️ Screenshots & System Diagrams
 
-> 📌 Add your project images below (recommended)
-
-### Web Application
-![Web UI](./images/web-ui.png)
-
-### Mobile Application
-![Mobile UI](./images/mobile-ui.png)
-
-### System Architecture
-![Architecture](./images/architecture.png)
-
-### Hardware Setup
-![Hardware](./images/hardware.png)
-
-> 💡 Create a folder called `images/` in your project and place your screenshots there.
 
 ---
 
